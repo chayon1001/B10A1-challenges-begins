@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* font family styles here */
+body {
+    font-family: Azeret Mono;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-content {
+    max-width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-content h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.nav-content button {
+    color: rgb(95, 99, 113);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 17px;
+    border-radius: 15px;
+    
+}
