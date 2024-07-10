@@ -252,7 +252,8 @@ body {
     font-weight: 400;
     text-align: center;
 }
-.card-content{
+
+.card-content {
     margin-top: 30px;
     display: flex;
     gap: 15px;
@@ -266,12 +267,89 @@ body {
     background: rgba(255, 76, 30, 0.05);
     border-radius: 16px;
 }
-.second-card{
+
+.second-card {
     background: rgba(0, 76, 232, 0.05);
 }
-.third-card{
+
+.third-card {
     background: rgba(255, 223, 0, 0.05);
 }
 
 
 /* my current target style end here */
+
+
+/* my next target style start here */
+.next-target {
+    width: 1140px;
+    height: 866px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    margin-top: 50px;
+}
+
+.next-content h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.next-content p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+
+}
+
+.first-target {
+    width: 1140px;
+    height: 219px;
+    /* border: 2px solid yellow box-sizing: border-box; */
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    gap: 30px;
+    margin-top: 15px;
+}
+
+.img-target {
+    /* border: 2px solid green; */
+    align-content: center;
+    margin-left: 20px;
+
+}
+
+.text-target {
+    margin-top: 25px;
+}
+
+.text-target h4 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+}
+
+.text-target p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.text-target a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+
+/* my next target style start here */
