@@ -353,3 +353,68 @@ body {
 
 
 /* my next target style start here */
+
+/* i need my support style start here */
+
+.support-container {
+    width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+    background-color: rgb(0, 0, 0, 0.5);
+    background-image: url('../assets/handshake.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-top: 30px;
+    background-blend-mode: overlay;
+}
+
+.need-text {
+    width: 1044px;
+    height: 185px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   padding-top: 40px;
+    
+}
+
+.need-text h4 {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.need-text p {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.main-input{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 30px;
+
+   
+}
+.first-input{
+    width: 300px;
+    text-align: left;
+    padding: 10px 10px;
+    border-radius: 10px;
+
+}
+#second-input{
+    width: 100px;
+    border-radius: 10px;
+}
+
+/* i need my support style end here */
