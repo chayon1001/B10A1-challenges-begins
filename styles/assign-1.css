@@ -6,7 +6,6 @@ body {
     margin: 0;
     padding: 0;
 }
-
 .nav-content {
     max-width: 80%;
     height: 100px;
@@ -22,7 +21,6 @@ body {
     font-size: 28px;
     font-weight: 800;
 }
-
 .nav-content button {
     color: rgb(95, 99, 113);
     font-family: Azeret Mono;
@@ -30,13 +28,11 @@ body {
     font-weight: 600;
     padding: 20px 17px;
     border-radius: 15px;
-
 }
 
 /* navber styles end here */
 
 /* banner section styles start here */
-
 .banner-container {
     max-width: 100%;
     height: 610px;
@@ -45,48 +41,38 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 .second-banner {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-
 .banner-img {
     width: 240px;
     height: 240px;
 }
-
 .banner-img img {
     margin-top: 25px;
     width: 100%;
     height: 100%;
-
 }
-
 .banner-heading {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 40px;
     font-weight: 500;
     text-align: center;
-
 }
-
 .banner-para {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
     text-align: center;
-
 }
-
 .primary-btn {
     margin-top: 20px;
 }
-
 .banner-btn {
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
@@ -94,9 +80,7 @@ body {
     padding: 15px 10px;
     border-radius: 8px;
     background: rgb(13, 19, 33);
-
 }
-
 /* banner section styles end here */
 
 /* web devlopment section style start here */
@@ -107,7 +91,6 @@ body {
     /* border: 2px solid red; */
     margin-top: 70px;
 }
-
 .web-container h2 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -115,7 +98,6 @@ body {
     font-weight: 800;
     text-align: center;
 }
-
 .web-container p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -123,28 +105,23 @@ body {
     font-weight: 400;
     text-align: center;
 }
-
 .web-main {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 20px;
     height: 370px;
-
 }
-
 .left-side {
     width: 50%;
     margin-left: 70px;
 }
-
 .left-side h3 {
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
     font-size: 24px;
     font-weight: 700;
 }
-
 .left-side p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -152,43 +129,32 @@ body {
     font-weight: 400;
     text-align: left;
 }
-
 .common-btn {
     padding: 10px 15px;
     border-radius: 5px;
-
 }
-
 .clickable-btn:hover {
     background-color: black;
     color: white;
-
 }
-
 .right-side {
     width: 50%;
     /* height: 1393px; */
     /* border: 2px solid yellow; */
-
 }
-
 .right-side img {
     margin-left: 150px;
 }
-
 .middle-main {
     display: flex;
     flex-direction: row-reverse;
 }
-
 .middle-side {
     margin-right: 70px;
 }
-
 /* web devlopment section end here */
 
 /* my inspiration styles start here */
-
 .inspiration-container {
     width: 1140px;
     height: 775px;
@@ -196,7 +162,6 @@ body {
     /* border: 2px solid red; */
     margin-top: 90px;
 }
-
 .left-inspiration h3 {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -204,7 +169,6 @@ body {
     font-weight: 800;
     text-align: center;
 }
-
 .left-inspiration p {
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
@@ -212,7 +176,6 @@ body {
     font-weight: 400;
     text-align: center;
 }
-
 .right-inspiration {
     width: 1076px;
     height: 550px;
@@ -220,7 +183,6 @@ body {
     /* border: 2px solid yellow; */
     margin-top: 35px;
 }
-
 .youtube-video {
     width: 100%;
     height: 100%;
@@ -276,7 +238,6 @@ body {
     background: rgba(255, 223, 0, 0.05);
 }
 
-
 /* my current target style end here */
 
 
@@ -303,8 +264,6 @@ body {
     font-size: 16px;
     font-weight: 400;
     text-align: center;
-
-
 }
 
 .first-target {
@@ -323,7 +282,6 @@ body {
     /* border: 2px solid green; */
     align-content: center;
     margin-left: 20px;
-
 }
 
 .text-target {
@@ -349,13 +307,9 @@ body {
     font-size: 16px;
     font-weight: 700;
 }
-
-
-
 /* my next target style start here */
 
 /* i need my support style start here */
-
 .support-container {
     width: 1140px;
     height: 313px;
@@ -370,7 +324,6 @@ body {
     margin-top: 30px;
     background-blend-mode: overlay;
 }
-
 .need-text {
     width: 1044px;
     height: 185px;
@@ -402,8 +355,6 @@ body {
     flex-direction: row;
     gap: 20px;
     margin-top: 30px;
-
-
 }
 
 .first-input {
@@ -422,7 +373,6 @@ body {
 /* i need my support style end here */
 
 /* footer section style start here */
-
 .footer-part {
     width: 100%;
     height: 100px;
@@ -430,8 +380,6 @@ body {
     display: flex;
     align-items: center;
     gap: 550px;
-
-
 }
 
 .footer-text {
